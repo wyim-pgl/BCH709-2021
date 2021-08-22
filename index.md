@@ -5,17 +5,14 @@ The philosophy of 'BCH709 Introduction to Bioinformatics' is to teach researcher
 
 
 > ## Class Schedule
-> MonWed 9:00AM - 10:15AM  
-> Aug 24, 2020 - Dec 18 2020
+> MonWed 9:00AM - 10:10AM  
+> Aug 23, 2021 - Dec 6 2021
 {: .prereq}
 
 
 > ## Modes of Instruction
-> Response to COVID-19, BCH709 will offer Alternative HyFlex course model.
->
-> **Alternative HyFlex**: Course originally scheduled to be delivered in-person, but will have attendance adjustments so students will alternate in-person and remote participation.  Students will receive communication directly from their instructors with specifics. Fully remotely participation by students can be accommodated for those with extenuating circumstances. 
->
-> **In addition, we will provide recorded video for everyone.**
+> This course will be accommodated in-person. This semester we will not offer Online or Alternative HyFlex course model
+Response to COVID-19, BCH709 will offer Alternative HyFlex course model.
 {: .callout}
 
 
@@ -26,28 +23,15 @@ The philosophy of 'BCH709 Introduction to Bioinformatics' is to teach researcher
 > [FA234](https://www.google.com/maps/place/39%C2%B032'15.7%22N+119%C2%B048'43.5%22W/@39.5385648,-119.8114072,17.67z/data=!4m5!3m4!1s0x0:0x0!8m2!3d39.5376946!4d-119.81208)  
 {: .prereq}
 
-> ## Class Room location
-> Alternative participate via Zoom
-> Join Zoom Meeting
-> [Zoom link](https://unr.zoom.us/j/6314611123?pwd=SE5ZOGNlcjIrZEszcnl6cElTQ3U1Zz09)
-> Meeting ID: 631 461 1123
-> Passcode: 709
-> One tap mobile
-> +16699006833,,6314611123# US (San Jose)
-> +12532158782,,6314611123# US (Tacoma)
->
-{: .prereq}
-
-
 > ## Prerequisites
 > - Computer with ethernet port or wifi (If in case you bring your **desktop**, please do not bring your monitor. we have a monitor in our classroom)
 > Online introduction to Linux. Students must complete one of the following online tutorials (or both) before class begins.
 > - UNR affilated email **\<ID\>@unr.edu or \<ID\>@nevada.unr.edu** - [How to Activate](https://oit.unr.edu/services-and-support/login-ids-and-passwords/netid/netid-activation/)
 > - Please fill this [form](https://forms.gle/91784nfQnj2QweHS9)
 > - [Please apply your Pronghorn account here](https://nevada.formstack.com/forms/high_performance_computing_application) ; [Please follow this instrunction](https://plantgenomicslab.github.io/BCH709/pronghorn/index.html)
-> - [Setup your computer](https://plantgenomicslab.github.io/BCH709/setup.html)
 > - [Setup Slack ID](https://unrrc.slack.com/)
 > - Please register [datacamp](https://www.datacamp.com/)
+> - [Setup your computer](https://plantgenomicslab.github.io/BCH709/setup.html)
 {: .callout}
 
 
